@@ -1,0 +1,1 @@
+class PlayerNotFound implements Exception {}

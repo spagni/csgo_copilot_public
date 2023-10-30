@@ -1,0 +1,1 @@
+class PrivateProfile implements Exception {}

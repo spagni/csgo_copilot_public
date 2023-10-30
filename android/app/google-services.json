@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "804255794581",
+    "firebase_url": "https://csgo-copilot.firebaseio.com",
+    "project_id": "csgo-copilot",
+    "storage_bucket": "csgo-copilot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804255794581:android:65d04c20b06566dd9ca29c",
+        "android_client_info": {
+          "package_name": "com.csgo.copilot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804255794581-spqi3vir714290akraio95f8mfhorp92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWO4dygI__9RC14c_GveVIYXVfQxLPirI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804255794581-spqi3vir714290akraio95f8mfhorp92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
